@@ -1,0 +1,27 @@
+{
+    "name": "@i-scrapper/npm.js",
+    "version": "1.0.0",
+    "description": "npm.js - i-scrapper (www.npmjs.com)",
+    "main": "npm.js",
+    "scripts": {
+        "test": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/i-scrapper/npm.js.git"
+    },
+    "keywords": [
+        "i-scrapper",
+        "npm.js"
+    ],
+    "author": "i-scrapper",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/i-scrapper/npm.js/issues"
+    },
+    "homepage": "https://github.com/i-scrapper/npm.js#readme",
+    "dependencies": {
+        "@i-scrapper/plugins-error": "^1.0.0",
+        "@i-scrapper/plugins-request": "^1.0.0"
+    }
+}
